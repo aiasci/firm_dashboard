@@ -1,0 +1,16 @@
+---
+author: "Anıl İsmet AŞCI"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r, warning=FALSE,message=FALSE,echo=FALSE , out.width="100%"}
+source("https://raw.githubusercontent.com/aiasci/firm_dashboard/master/graphm.R")
+
+fig
+
+```

@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ```{r, warning=FALSE,message=FALSE,echo=FALSE , out.width="100%"}
-source("C:/Users/aiasc/OneDrive - metu.edu.tr/desktop/R/aqq/pre_final.R")
+source("https://raw.githubusercontent.com/aiasci/firm_dashboard/master/graph.R")
 
 fig
 
